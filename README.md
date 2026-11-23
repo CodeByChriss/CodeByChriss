@@ -41,5 +41,9 @@ Actualmente estoy cursando el **Máster en Big Data e Inteligencia Artificial en
 
 ## 📜 Certificaciones
 <p float="left">
-  <picture><img height="115" width="115" src="images/cert-microsoft-dp-800.png" alt="Microsoft Certified: Azure Fundamentals" title="Microsoft Certified: Azure Fundamentals" /></picture>&nbsp;
+  <a href="https://learn.microsoft.com/en-us/users/christiansalguerovaras/credentials/e7cbab5ef96c4c4d" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <img height="115" width="115" src="images/cert-microsoft-dp-800.png" alt="Microsoft Certified: Azure Fundamentals" title="Microsoft Certified: Azure Fundamentals" />
+    </picture>
+  </a>
 </p>
