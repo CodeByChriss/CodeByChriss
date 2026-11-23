@@ -40,6 +40,6 @@ Actualmente estoy cursando el **Máster en Big Data e Inteligencia Artificial en
 ---
 
 ## 📜 Certificaciones
-
-- **Microsoft Certified: SQL AI Developer Associate (DP-800)** 
-  - *Diseño de bases de datos relacionales/no relacionales, integración de búsqueda vectorial, consumo de embeddings en motores SQL y exposición de APIs con Data API Builder.*
+<p float="left">
+  <picture><img height="115" width="115" src="images/cert-microsoft-dp-800.png" alt="Microsoft Certified: Azure Fundamentals" title="Microsoft Certified: Azure Fundamentals" /></picture>&nbsp;
+</p>
